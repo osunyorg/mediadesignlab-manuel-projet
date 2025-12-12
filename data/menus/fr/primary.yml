@@ -2,21 +2,21 @@
 title: Menu principal
 items:
 - title: Projets
-  target: "/projets/"
+  target: "/"
   kind: page
   new_tab: false
   children: []
   path: "/projects"
   file: content/fr/projects/_index.html
 - title: Personnes
-  target: "/personnes/"
+  target: "/"
   kind: page
   new_tab: false
   children: []
   path: "/persons"
   file: content/fr/persons/_index.html
 - title: Organisations
-  target: "/organisations/"
+  target: "/"
   kind: page
   new_tab: false
   children: []
