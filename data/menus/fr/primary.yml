@@ -3,7 +3,7 @@ title: Menu principal
 items:
 - title: Projets
   slug: projets
-  target: "/"
+  target: "/projets/"
   kind: page
   new_tab: false
   children: []
@@ -12,7 +12,7 @@ items:
   file: content/fr/projects/_index.html
 - title: Personnes
   slug: personnes
-  target: "/"
+  target: "/personnes/"
   kind: page
   new_tab: false
   children: []
@@ -21,7 +21,7 @@ items:
   file: content/fr/persons/_index.html
 - title: Organisations
   slug: organisations
-  target: "/"
+  target: "/organisations/"
   kind: page
   new_tab: false
   children: []
